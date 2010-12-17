@@ -1,0 +1,14 @@
+<controls>
+    <Toggle_Debug>
+        <name>Debug</name>
+        <value>0</value>
+    </Toggle_Debug>
+    <Toggle_bMirror>
+        <name>bMirror</name>
+        <value>1</value>
+    </Toggle_bMirror>
+    <SliderInt_tol>
+        <name>tol</name>
+        <value>54</value>
+    </SliderInt_tol>
+</controls>

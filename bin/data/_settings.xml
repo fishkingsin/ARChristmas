@@ -1,0 +1,50 @@
+<controls>
+    <SliderFloat_scale>
+        <name>scale</name>
+        <value>0.530000</value>
+    </SliderFloat_scale>
+    <SliderFloat_timeout>
+        <name>timeout</name>
+        <value>0.000010</value>
+    </SliderFloat_timeout>
+    <SliderFloat_maskA>
+        <name>maskA</name>
+        <value>18.780001</value>
+    </SliderFloat_maskA>
+    <Button_bCapture>
+        <name>bCapture</name>
+        <value>0</value>
+    </Button_bCapture>
+    <Toggle_fgLoaded>
+        <name>fgLoaded</name>
+        <value>0</value>
+    </Toggle_fgLoaded>
+    <Toggle_LoopVideo>
+        <name>LoopVideo</name>
+        <value>1</value>
+    </Toggle_LoopVideo>
+    <SliderFloat_vidScale>
+        <name>vidScale</name>
+        <value>1.130000</value>
+    </SliderFloat_vidScale>
+    <SliderInt_Movie_X>
+        <name>Movie_X</name>
+        <value>0</value>
+    </SliderInt_Movie_X>
+    <SliderInt_Movie_y>
+        <name>Movie_y</name>
+        <value>201</value>
+    </SliderInt_Movie_y>
+    <SliderInt_No._Foreground>
+        <name>No. Foreground</name>
+        <value>0</value>
+    </SliderInt_No._Foreground>
+    <Button_Change_Foregound>
+        <name>Change Foregound</name>
+        <value>0</value>
+    </Button_Change_Foregound>
+    <SliderFloat_Shader_Tolorence>
+        <name>Shader Tolorence</name>
+        <value>0.213499</value>
+    </SliderFloat_Shader_Tolorence>
+</controls>

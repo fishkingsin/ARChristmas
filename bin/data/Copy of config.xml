@@ -1,0 +1,43 @@
+<SETTINGS>
+	<DEBUG>1</DEBUG>
+	<FULLSCREEN>0</FULLSCREEN>
+	<CANVAS width="1360" height="768" x="1280" y="0"></CANVAS>
+	<CAMERA width="1360" height="1020" x="0" y="0"></CAMERA>
+	<SCREENSAVER timeout="1" file="movies/instruction.mov"></SCREENSAVER>
+	<AR>0</AR>
+	<FBOSAVER width="1360" height="768"></FBOSAVER>
+	<!--(2,1,"MiddleVillage");-->
+	<MODELS id="0" scale="1" foldername="diamond"></MODELS>
+	<MODELS id="1" scale="1" foldername="buddish"></MODELS>
+	<MODELS id="2" scale="1" foldername="gradhat"></MODELS>
+	<MODELS id="3" scale="1" foldername="wind"></MODELS>
+	<MODELS id="4" scale="1" foldername="cake"></MODELS>
+	 <NETWORK>
+        <LOCALHOST>127.0.0.1</LOCALHOST>
+        <TUIO>0</TUIO>
+        <TUIOPORT_OUT>3333</TUIOPORT_OUT>
+        <TUIOFLASHPORT_OUT>3000</TUIOFLASHPORT_OUT>
+    </NETWORK>
+</SETTINGS>
+<!--<config>
+
+<input>
+	<type>camera</type>
+</input>
+
+<camera>
+	<id>0</id>
+	<w>640</w>
+	<h>480</h>
+</camera>
+
+<video>
+	<file>finger.mov</file>
+</video>
+
+<osc>
+	<host>127.0.0.1</host>
+	<port>31841</port>
+</osc>
+
+</config>-->

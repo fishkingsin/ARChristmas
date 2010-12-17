@@ -1,0 +1,41 @@
+<SETTINGS>
+	<DEBUG>0</DEBUG>
+	<COUNTDOWN>1</COUNTDOWN>
+	<FULLSCREEN>0</FULLSCREEN>
+	<MAX_CAPTURES>200</MAX_CAPTURES>
+	<IMAGE_NAME>ARChristmas.jpg</IMAGE_NAME>
+	<CANVAS width="1280"	height="720" x="0" y="0"></CANVAS>
+	<CAMERA width="640" height="480" x="0" y="0"></CAMERA><!---->
+	<SCREENSAVER timeout="1" file="movies/foreground/Kids 5_keyed.wmv" mask="images/blue_00000.png" loop="1"></SCREENSAVER>
+	<AR>1</AR>
+	<FBOSAVER width="1280" height="720" ></FBOSAVER><!--always 1.5:1-->
+	<MODELS id="0" scale="1" foldername="star1" video="movies/foreground/Female 27_keyed.wmv" kiss="1"></MODELS>
+	<MODELS id="1" scale="1" foldername="star" video="movies/foreground/Kids 5_keyed.wmv" kiss="3"></MODELS>
+	<MODELS id="2" scale="1" foldername="dress" video="movies/foreground/null.wmv" kiss="0"></MODELS>
+	<MODELS id="3" scale="1" foldername="star2" video="movies/foreground/Male 13_keyed.wmv" kiss="2"></MODELS>
+	<MODELS id="4" scale="1" foldername="deer" video="movies/foreground/null.wmv" kiss="0"></MODELS>
+	<MODELS id="5" scale="1" foldername="presnet" video="movies/foreground/null.wmv" kiss="0"></MODELS>
+	<FADER>2</FADER>
+</SETTINGS>
+<!--<config>
+
+<input>
+	<type>camera</type>
+</input>
+
+<camera>
+	<id>0</id>
+	<w>640</w>
+	<h>480</h>
+</camera>
+
+<video>
+	<file>finger.mov</file>
+</video>
+
+<osc>
+	<host>127.0.0.1</host>
+	<port>31841</port>
+</osc>
+
+</config>-->

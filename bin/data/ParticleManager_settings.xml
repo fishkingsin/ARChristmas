@@ -1,0 +1,30 @@
+<controls>
+    <SliderFloat_count>
+        <name>count</name>
+        <value>17.600000</value>
+    </SliderFloat_count>
+    <SliderFloat_x>
+        <name>x</name>
+        <value>740.000000</value>
+    </SliderFloat_x>
+    <SliderFloat_y>
+        <name>y</name>
+        <value>450.000000</value>
+    </SliderFloat_y>
+    <SliderFloat_max_size>
+        <name>max size</name>
+        <value>68.574997</value>
+    </SliderFloat_max_size>
+    <SliderFloat_min_size>
+        <name>min size</name>
+        <value>97.900002</value>
+    </SliderFloat_min_size>
+    <SliderFloat_max_a>
+        <name>max a</name>
+        <value>-1.200000</value>
+    </SliderFloat_max_a>
+    <SliderFloat_min_a>
+        <name>min a</name>
+        <value>1.200000</value>
+    </SliderFloat_min_a>
+</controls>

@@ -1,0 +1,47 @@
+<controls>
+    <SliderFloat_Scale>
+        <name>Scale</name>
+        <value>27.955000</value>
+    </SliderFloat_Scale>
+    <SliderFloat_tweenScale>
+        <name>tweenScale</name>
+        <value>1.945000</value>
+    </SliderFloat_tweenScale>
+    <SliderInt_Image_Size>
+        <name>Image Size</name>
+        <value>43</value>
+    </SliderInt_Image_Size>
+    <SliderFloat_Easing>
+        <name>Easing</name>
+        <value>0.120001</value>
+    </SliderFloat_Easing>
+    <SliderInt_Model_Z>
+        <name>Model Z</name>
+        <value>0</value>
+    </SliderInt_Model_Z>
+    <SliderFloat_RoationX>
+        <name>RoationX</name>
+        <value>0.000000</value>
+    </SliderFloat_RoationX>
+    <SliderFloat_RoationY>
+        <name>RoationY</name>
+        <value>5.400000</value>
+    </SliderFloat_RoationY>
+    <SliderFloat_RoationZ>
+        <name>RoationZ</name>
+        <value>0.000000</value>
+    </SliderFloat_RoationZ>
+    <SliderInt_Alpha>
+        <name>Alpha</name>
+        <value>0</value>
+    </SliderInt_Alpha>
+    <Toggle_debug>
+        <name>debug</name>
+        <value>0</value>
+    </Toggle_debug>
+    <Slider2D_Point_0>
+        <name>Point 0</name>
+        <valueX>-5.434783</valueX>
+        <valueY>309.782623</valueY>
+    </Slider2D_Point_0>
+</controls>

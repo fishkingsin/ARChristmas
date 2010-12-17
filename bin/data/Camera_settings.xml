@@ -1,0 +1,18 @@
+<controls>
+    <Toggle_bLiveViewMode>
+        <name>bLiveViewMode</name>
+        <value>1</value>
+    </Toggle_bLiveViewMode>
+    <SliderInt_VIDEO_MODE>
+        <name>VIDEO_MODE</name>
+        <value>1</value>
+    </SliderInt_VIDEO_MODE>
+    <Toggle_bMirror>
+        <name>bMirror</name>
+        <value>1</value>
+    </Toggle_bMirror>
+    <Toggle_bShooting>
+        <name>bShooting</name>
+        <value>0</value>
+    </Toggle_bShooting>
+</controls>
