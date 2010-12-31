@@ -1,6 +1,6 @@
 /*
 	ARChristmas is a app implemented ARToolkitplus 
-    Copyright (C) <2010>  <James Kong>
+    Copyright (C) <2010>  <ar.christmas.cc>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
